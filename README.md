@@ -7,11 +7,6 @@ proposto no 12 da lista de exercícios, para o trabalho de física.
 
 ---
 
-## 📷 Imagens
-
-### Circuito do exercício
-
-
 ## 📋 Enunciado do exercício
 
 > **36.** Na Fig. 27.30, ℰ₁ = 6,00 V, ℰ₂ = 12,0 V, R₁ = 100 Ω, R₂ = 200 Ω e
