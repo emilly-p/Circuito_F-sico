@@ -3,7 +3,7 @@
 # Calculadora de Circuito
 
 Aplicação em Java Swing que resolve, de forma interativa, o circuito
-proposto no 12 da lista de exercícios, para o trabalho de física.
+proposto no item 12 da lista de exercícios, para o trabalho de física.
 
 ---
 
