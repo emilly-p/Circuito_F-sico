@@ -11,15 +11,6 @@ proposto no 12 da lista de exercícios, para o trabalho de física.
 
 ### Circuito do exercício
 
-<!-- Coloque aqui a imagem do circuito (Fig. 27.30) -->
-![Circuito do Problema 36](./docs/circuito.png)
-
-### Interface gráfica da aplicação
-
-<!-- Coloque aqui um print da interface gráfica em funcionamento -->
-![Interface gráfica](./docs/interface.png)
-
----
 
 ## 📋 Enunciado do exercício
 
