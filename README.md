@@ -1,4 +1,4 @@
-# Circuito_Físico
+# Circuito Físico
 
 # Calculadora de Circuito
 
